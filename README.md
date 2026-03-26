@@ -2,12 +2,6 @@
 C module 5
 EX NO:5-d) Count the number of alphabets in a given string.
 
-Date:19/10/2025 
-
-Name: VASANTH S 
-
-Ref no: 25017538
-
 AIM:
 To write a c program to count the number of alphabets in a given string.
 
